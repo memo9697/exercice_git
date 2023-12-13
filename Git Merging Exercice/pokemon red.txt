@@ -149,3 +149,4 @@ Draco
 Dracolosse
 Mewtwo
 Mew
+--> Ne pas ajouter la gen 2
